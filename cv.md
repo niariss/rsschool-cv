@@ -28,10 +28,9 @@ Personal profile:
 
 ### Education:
 
-|  Period | Institution  | Speciality  |  Qualification |
+|  Period | Institution | Speciality | Qualification |
 |---|---|---|---|
-| September 2012 - June 2018  | Belarusian State University   | 
-Biology  | Biologist  |
+| September 2012 - June 2018 | Belarusian State University | Biology | Biologist |
 
 ### English: 
 Elementary (A1)
