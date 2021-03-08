@@ -1,5 +1,6 @@
 a {
      text-decoration: none;
+     color: #000000;
 }
 
 a:hover {
@@ -17,7 +18,7 @@ a:hover {
     margin: 0 auto;
     padding: 0 15px;
     background:#CCCCCC;
-    margin-bottom: 30px;
+    margin-bottom: 100px;
 }
 .profile-image {
     float: right;
