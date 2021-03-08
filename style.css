@@ -1,0 +1,30 @@
+article {
+margin-bottom: 30px;
+}
+
+.element-invisible {
+  text-indent: -9999em;
+  outline: 0;
+}
+
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 15px;
+    background:#CCCCCC
+}
+profile-image {
+    float: right;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.education {
+    border-collapse: collapse;
+}
+.education th, td {
+    padding: 10px;
+    border: solid black 1px;
+}
+
+
