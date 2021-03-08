@@ -13,7 +13,7 @@ margin-bottom: 30px;
     padding: 0 15px;
     background:#CCCCCC
 }
-profile-image {
+.profile-image {
     float: right;
     height: 200px;
     border-radius: 10px;
