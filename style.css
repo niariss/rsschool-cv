@@ -1,7 +1,13 @@
+.element-invisible {
+  text-indent: -9999em;
+  outline: 0;
+}
+
 .wrapper {
     max-width: 1024px;
     margin: 0 auto;
     padding: 0 15px;
+    background:#CCCCCC
 }
 .profile-image {
     float: right;
