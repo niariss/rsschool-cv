@@ -1,3 +1,7 @@
+article {
+margin-bottom: 30px;
+}
+
 .element-invisible {
   text-indent: -9999em;
   outline: 0;
@@ -9,11 +13,11 @@
     padding: 0 15px;
     background:#CCCCCC
 }
-.profile-image {
+profile-image {
     float: right;
-    width: 200px;
     height: 200px;
-    padding-left: 15px;
+    border-radius: 10px;
+    
 }
 .education {
     border-collapse: collapse;
@@ -22,3 +26,5 @@
     padding: 10px;
     border: solid black 1px;
 }
+
+
